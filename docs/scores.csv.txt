@@ -1,0 +1,5 @@
+student_id,subject,topic,score,date
+S1,Maths,Ratios,45,2024-06-01
+S1,Maths,Percentages,50,2024-07-01
+S1,Maths,ProfitLoss,40,2024-08-01
+S2,Maths,Ratios,60,2024-06-01

@@ -1,0 +1,4 @@
+topic,depends_on,weight
+Percentages,Ratios,0.8
+ProfitLoss,Percentages,0.7
+Statistics,Percentages,0.6
